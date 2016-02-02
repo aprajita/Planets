@@ -5,3 +5,5 @@ mars
 jupiter
 saturn
 uranus
+pluto ccc
+planet X
